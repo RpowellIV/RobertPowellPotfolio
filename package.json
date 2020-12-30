@@ -38,7 +38,7 @@
   "license": "MIT",
   "scripts": {
     "predeploy": "npm run build",
-    "gitdeploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build",
     "build": "gatsby build",
     "develop": "gatsby develop gh-pages",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
