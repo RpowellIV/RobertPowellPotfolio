@@ -9,7 +9,6 @@
   </h1>
   <img src="https://github.com/rohitguptab/rg-portfolio/blob/master/docs/screenshot.jpg" />
 
-Kick-off your Portfolio website with RG-Portfolio gatsby starter. We have used [Gatsby](https://www.gatsbyjs.org/) + [Contenful](https://www.gatsbyjs.org/packages/gatsby-source-contentful/?=Contenful).
 
 ### Live Demo:
 
