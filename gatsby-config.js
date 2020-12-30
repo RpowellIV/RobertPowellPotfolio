@@ -11,7 +11,7 @@ module.exports = {
     title: `Robert Powell`,
     description: `Personal Site`,
     author: `@robertpowell`,
-    pathPrefix: '/RobertPowellPotfolio',
+    // pathPrefix: '/RobertPowellPotfolio',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -35,8 +35,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Rohit Gupta`,
-        short_name: `Rohit Gupta`,
+        name: `Robert Powell`,
+        short_name: `Robert Powell`,
         start_url: `/`,
         background_color: `#663399`,
         theme_color: `#333`,
