@@ -1,6 +1,6 @@
   <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
   <p align="center">
-    <a href="https://https://rpowelliv.github.io/RobertPowellPotfolio/">
+    <a href="https://rpowelliv.github.io/RobertPowellPotfolio/">
       <img alt="rp-portfolio" src="/images/pagecover.png" width="50" />
     </a>
   </p>
