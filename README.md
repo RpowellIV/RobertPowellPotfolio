@@ -10,7 +10,7 @@
   <img src="https://github.com/rohitguptab/rg-portfolio/blob/master/docs/screenshot.jpg" />
 
 
-### Pive Portfolio:
+### My Portfolio:
 
 https://rg-portfolio.netlify.com/
 
