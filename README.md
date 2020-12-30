@@ -10,21 +10,17 @@
   <img src="https://github.com/rohitguptab/rg-portfolio/blob/master/docs/screenshot.jpg" />
 
 
-### Live Demo:
+### Pive Portfolio:
 
 https://rg-portfolio.netlify.com/
 
-### Feature:
+### Info:
 
-- Blogs listing with each blog post.
-- Contact form with Email notification using formspree.io.
-- Photos and Blogs page listing.
-- Different types of sections like About, Service, Blogs, Work, Testimonials, Photos, and contact.
-- All settings manage from contentful for example Header Menu, Homepage sections, blogs, and photos, etc.
-- Social share in blog details pages with comment ( Disqus ).
-- PWA
+- Follow the link to my portfolio
+- Learn more about me and what I've done
+- Come back and ask me for more
 
-## 🚀 Quick start
+<!-- ## 🚀 Quick start
 
 1.  **Setup this site.**
 
@@ -84,6 +80,6 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 ## 💫 Deploy
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Rohitguptab/rg-portfolio)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Rohitguptab/rg-portfolio) -->
 
   <!-- AUTO-GENERATED-CONTENT:END -->
