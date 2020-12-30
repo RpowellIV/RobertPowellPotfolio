@@ -12,7 +12,7 @@
 
 ### My Portfolio:
 
-https://rg-portfolio.netlify.com/
+https://rpowelliv.github.io/RobertPowellPotfolio/
 
 ### Info:
 
