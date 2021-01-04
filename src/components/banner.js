@@ -25,7 +25,7 @@ export default class Banner extends Component {
               <li>
                 <a
                   className="fab fa-facebook-f"
-                  href={data.facebook}
+                  href="https://www.facebook.com/orphansvendetta/"
                   target="_blank"
                   rel="noopener noreferrer"
                 ></a>

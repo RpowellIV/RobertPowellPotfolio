@@ -48,7 +48,7 @@ const Header = ({ data }) => (
                 <li>
                   <a
                     className="fab fa-facebook-f"
-                    href={data.facebook}
+                    href="https://www.facebook.com/orphansvendetta/"
                     target="_blank"
                     rel="noopener noreferrer"
                   ></a>
@@ -80,7 +80,7 @@ const Header = ({ data }) => (
                 <li>
                   <a
                     className="fab fa-github"
-                    href={data.github}
+                    href="https://www.linkedin.com/in/robert-powell-a7621924/"
                     target="_blank"
                     rel="noopener noreferrer"
                   ></a>
