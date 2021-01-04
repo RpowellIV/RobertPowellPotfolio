@@ -7,11 +7,11 @@ if (process.env.ENVIRONMENT !== "production") {
 const { spaceId, accessToken } = process.env;
 
 module.exports = {
+  pathPrefix: '/RobertPowellPotfolio',
   siteMetadata: {
     title: `Robert Powell`,
     description: `Personal Site`,
     author: `@robertpowell`,
-    // pathPrefix: '/RobertPowellPotfolio',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
