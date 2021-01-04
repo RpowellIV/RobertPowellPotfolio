@@ -49,7 +49,7 @@ export default class Banner extends Component {
               <li>
                 <a
                   className="fab fa-linkedin-in"
-                  href={data.linkdin}
+                  href="https://www.linkedin.com/in/robert-powell-a7621924/"
                   target="_blank"
                   rel="noopener noreferrer"
                 ></a>
